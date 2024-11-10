@@ -44,6 +44,8 @@
           gnuplot
           btop
           iina
+          tree
+          yazi
 
         ];
 
