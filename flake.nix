@@ -43,6 +43,7 @@
           fastfetch
           gnuplot
           btop
+          iina
 
         ];
 
