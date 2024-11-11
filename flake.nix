@@ -52,8 +52,9 @@
 	homebrew = {
 	    enable = true;
 	    brews = [
-
-		"mas"
+        "mas"
+        "pipes-sh"
+        "lazygit"
 	    ];
 	    masApps = {};
 	    

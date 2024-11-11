@@ -1,0 +1,9 @@
+[02:18:20 2024-11-11] FETCHING Version 2.38.4
+[02:18:20 2024-11-11] CREATING /Users/anyaforger/.spicetify
+[02:18:20 2024-11-11] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.38.4/spicetify-2.38.4-darwin-arm64.tar.gz
+[02:18:22 2024-11-11] EXTRACTING /Users/anyaforger/.spicetify/spicetify.tar.gz
+[02:18:22 2024-11-11] SETTING EXECUTABLE PERMISSIONS TO /Users/anyaforger/.spicetify/spicetify
+[02:18:22 2024-11-11] REMOVING /Users/anyaforger/.spicetify/spicetify.tar.gz
+[02:18:22 2024-11-11] spicetify path already set in /Users/anyaforger/.zshrc, continuing...
+[02:18:22 2024-11-11] spicetify v2.38.4 was installed successfully to /Users/anyaforger/.spicetify
+[02:18:22 2024-11-11] Run 'spicetify --help' to get started
