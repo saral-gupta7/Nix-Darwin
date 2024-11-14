@@ -46,6 +46,11 @@
           iina
           tree
           yazi
+          telegram-desktop
+          xclip
+          yt-dlp
+          mediainfo
+
 
         ];
 
