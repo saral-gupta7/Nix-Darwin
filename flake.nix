@@ -51,6 +51,7 @@
           yt-dlp
           mediainfo
           vimv
+          progress
 
 
         ];
@@ -61,6 +62,8 @@
         "mas"
         "pipes-sh"
         "lazygit"
+        "iproute2mac"
+
 	    ];
 	    masApps = {};
 	    
