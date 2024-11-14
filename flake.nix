@@ -50,6 +50,7 @@
           xclip
           yt-dlp
           mediainfo
+          vimv
 
 
         ];
