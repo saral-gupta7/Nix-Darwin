@@ -63,6 +63,8 @@
         "pipes-sh"
         "lazygit"
         "iproute2mac"
+        "glow"
+        "mpv" 
 
 	    ];
 	    masApps = {};
