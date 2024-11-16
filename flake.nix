@@ -71,6 +71,7 @@
 	    
 	    casks = [
 		"hammerspoon"
+    "kitty"
 		"firefox"
 		];
 		
