@@ -64,6 +64,7 @@
         "lazygit"
         "iproute2mac"
         "glow"
+        "scrcpy"
         "mpv" 
 
 	    ];
