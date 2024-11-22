@@ -52,6 +52,7 @@
           mediainfo
           vimv
           progress
+          ueberzug
 
 
         ];
@@ -66,6 +67,8 @@
         "glow"
         "scrcpy"
         "mpv" 
+        "zathura"
+        "zathura-pdf-poppler"
 
 	    ];
 	    masApps = {};
@@ -74,6 +77,7 @@
 		"hammerspoon"
     "kitty"
 		"firefox"
+    "nikitabobko/tap/aerospace"
 		];
 		
 		onActivation.autoUpdate = true;
