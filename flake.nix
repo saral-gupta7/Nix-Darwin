@@ -69,6 +69,8 @@
         "mpv" 
         "zathura"
         "zathura-pdf-poppler"
+        "cmatrix"
+        "tmate"
 
 	    ];
 	    masApps = {};
