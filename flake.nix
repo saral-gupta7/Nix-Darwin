@@ -71,6 +71,7 @@
         "zathura-pdf-poppler"
         "cmatrix"
         "tmate"
+        "git"
 
 	    ];
 	    masApps = {};
