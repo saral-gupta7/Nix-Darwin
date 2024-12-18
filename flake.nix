@@ -26,7 +26,7 @@
       nixpkgs.config.allowUnfree = true;
       # List packages installed in system profile. To search by name, run:
       # $ nix-env -qaP | grep wget
-      environment.systemPackages = with pkgs; 
+      environment.systemPackages = with pkgs;
         [ vim
           neovim
           mkalias
@@ -34,7 +34,6 @@
           eza
           bat
           tmux
-          alacritty
           stow
           thefuck
           fzf
@@ -53,6 +52,8 @@
           vimv
           progress
           ueberzug
+          emacs
+          alacritty
 
 
         ];
@@ -73,6 +74,8 @@
         "tmate"
         "git"
 
+
+
 	    ];
 	    masApps = {};
 	    
@@ -81,6 +84,7 @@
     "kitty"
 		"firefox"
     "nikitabobko/tap/aerospace"
+    "wezterm"
 		];
 		
 		onActivation.autoUpdate = true;
