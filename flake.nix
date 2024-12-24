@@ -54,6 +54,7 @@
           ueberzug
           emacs
           alacritty
+          ffsend
 
 
         ];
