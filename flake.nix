@@ -55,6 +55,7 @@
           emacs
           alacritty
           ffsend
+          sshpass
 
 
         ];
