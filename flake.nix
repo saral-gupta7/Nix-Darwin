@@ -56,6 +56,10 @@
           alacritty
           ffsend
           sshpass
+          mpd
+          ncmpcpp
+          mpc
+          ani-skip
 
 
         ];
@@ -87,6 +91,7 @@
 		"firefox"
     "nikitabobko/tap/aerospace"
     "wezterm"
+    "ghostty"
 		];
 		
 		onActivation.autoUpdate = true;
