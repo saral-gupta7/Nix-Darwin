@@ -60,6 +60,7 @@
           ncmpcpp
           mpc
           ani-skip
+          gfortran
 
 
         ];
@@ -79,6 +80,8 @@
         "cmatrix"
         "tmate"
         "git"
+        "jesseduffield/lazydocker/lazydocker"
+        "aria2"
 
 
 
