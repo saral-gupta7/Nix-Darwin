@@ -19,7 +19,7 @@
 
   };
 
-  outputs = inputs@{ self, nix-darwin, nixpkgs, nix-homebrew, ... }:
+  outputs = inputs@{ self, nix-darwin, nixpkgs, nix-homebrew, homebrew-core, homebrew-cask, ... }:
   let
   
     configuration = { pkgs, config, ... }: {
@@ -52,7 +52,6 @@
           vimv
           progress
           ueberzug
-          emacs
           alacritty
           ffsend
           sshpass
@@ -61,6 +60,7 @@
           mpc
           ani-skip
           gfortran
+
 
 
         ];
@@ -80,9 +80,8 @@
         "cmatrix"
         "tmate"
         "git"
+        "trash"
         "jesseduffield/lazydocker/lazydocker"
-        "aria2"
-
 
 
 	    ];
