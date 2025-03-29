@@ -60,6 +60,7 @@
           mpc
           ani-skip
           gfortran
+          nginx
 
 
 
@@ -82,6 +83,8 @@
         "git"
         "trash"
         "jesseduffield/lazydocker/lazydocker"
+        "emacs-plus@30"
+        "mailsy"
 
 
 	    ];
